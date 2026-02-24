@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
+| [1669-merge-in-between-linked-lists](https://github.com/rupeshrai05/DSA_CPP/tree/master/1669-merge-in-between-linked-lists) |
 ## Design
 |  |
 | ------- |
