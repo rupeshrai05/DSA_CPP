@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Array
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
