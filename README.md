@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
@@ -46,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
