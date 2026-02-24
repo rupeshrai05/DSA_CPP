@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rupeshrai05/DSA_CPP/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/rupeshrai05/DSA_CPP/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
