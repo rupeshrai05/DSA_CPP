@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
