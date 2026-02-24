@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/rupeshrai05/DSA_CPP/tree/master/1669-merge-in-between-linked-lists) |
 ## Design
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rupeshrai05/DSA_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
