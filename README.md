@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rupeshrai05/DSA_CPP/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/rupeshrai05/DSA_CPP/tree/master/0039-combination-sum) |
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Linked List
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rupeshrai05/DSA_CPP/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rupeshrai05/DSA_CPP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
