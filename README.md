@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rupeshrai05/DSA_CPP/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rupeshrai05/DSA_CPP/tree/master/0039-combination-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rupeshrai05/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupeshrai05/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rupeshrai05/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupeshrai05/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
@@ -151,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rupeshrai05/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rupeshrai05/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
 | [0355-design-twitter](https://github.com/rupeshrai05/DSA_CPP/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
@@ -180,4 +184,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/rupeshrai05/DSA_CPP/tree/master/1037-valid-boomerang) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
