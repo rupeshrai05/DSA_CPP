@@ -134,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rupeshrai05/DSA_CPP/tree/master/0032-longest-valid-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rupeshrai05/DSA_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rupeshrai05/DSA_CPP/tree/master/0039-combination-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rupeshrai05/DSA_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
+## Math
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/rupeshrai05/DSA_CPP/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
