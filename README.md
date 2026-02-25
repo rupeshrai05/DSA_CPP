@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupeshrai05/DSA_CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1037-valid-boomerang](https://github.com/rupeshrai05/DSA_CPP/tree/master/1037-valid-boomerang) |
 ## Linked List
 |  |
 | ------- |
@@ -170,4 +171,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/rupeshrai05/DSA_CPP/tree/master/0357-count-numbers-with-unique-digits) |
+| [1037-valid-boomerang](https://github.com/rupeshrai05/DSA_CPP/tree/master/1037-valid-boomerang) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/rupeshrai05/DSA_CPP/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
