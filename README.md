@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/rupeshrai05/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0450-delete-node-in-a-bst) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rupeshrai05/DSA_CPP/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/rupeshrai05/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupeshrai05/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/rupeshrai05/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0450-delete-node-in-a-bst) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/rupeshrai05/DSA_CPP/tree/master/0218-the-skyline-problem) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rupeshrai05/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
