@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0450-delete-node-in-a-bst) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rupeshrai05/DSA_CPP/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0450-delete-node-in-a-bst) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0450-delete-node-in-a-bst) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rupeshrai05/DSA_CPP/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupeshrai05/DSA_CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
@@ -146,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
