@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupeshrai05/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/rupeshrai05/DSA_CPP/tree/master/0355-design-twitter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Two Pointers
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/rupeshrai05/DSA_CPP/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/rupeshrai05/DSA_CPP/tree/master/1669-merge-in-between-linked-lists) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rupeshrai05/DSA_CPP/tree/master/0173-binary-search-tree-iterator) |
+| [0355-design-twitter](https://github.com/rupeshrai05/DSA_CPP/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rupeshrai05/DSA_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/rupeshrai05/DSA_CPP/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
