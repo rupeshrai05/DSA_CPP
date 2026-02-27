@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rupeshrai05/DSA_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rupeshrai05/DSA_CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/rupeshrai05/DSA_CPP/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rupeshrai05/DSA_CPP/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rupeshrai05/DSA_CPP/tree/master/0658-find-k-closest-elements) |
 | [0706-design-hashmap](https://github.com/rupeshrai05/DSA_CPP/tree/master/0706-design-hashmap) |
+| [0994-rotting-oranges](https://github.com/rupeshrai05/DSA_CPP/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rupeshrai05/DSA_CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1037-valid-boomerang](https://github.com/rupeshrai05/DSA_CPP/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rupeshrai05/DSA_CPP/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rupeshrai05/DSA_CPP/tree/master/0222-count-complete-tree-nodes) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/rupeshrai05/DSA_CPP/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
