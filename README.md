@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupeshrai05/DSA_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rupeshrai05/DSA_CPP/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/rupeshrai05/DSA_CPP/tree/master/0355-design-twitter) |
